@@ -1,0 +1,12 @@
+Library (Tools -> Manage Libraries)
+- CTBot
+- ArduinoJson
+
+Boards (File -> Preferences)
+- http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+Tools -> Board -> Boards Manager -> Ketik "ESP8266" -> Install
+
+Set Tools -> Board -> ESP8266 -> NodeMCU 1.0 (ESP-12E Module)
+
+Code https://github.com/baguspangestu/smart_rellay/blob/main/Lampu_Sardi.ino
